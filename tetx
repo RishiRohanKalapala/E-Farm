@@ -1,0 +1,15 @@
+<li><a href="#">Services</a></li>
+                    <li><a href="#">Blog</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                </ul>
+            </div>
+            <div class="footer-social">
+                <a href="#"><img src="https://via.placeholder.com/30x30" alt="Facebook"></a>
+                <a href="#"><img src="https://via.placeholder.com/30x30" alt="Twitter"></a>
+                <a href="#"><img src="https://via.placeholder.com/30x30" alt="LinkedIn"></a>
+                </div>
+                </div>
+                </footer>
+                
+                </body>
+                </html>
