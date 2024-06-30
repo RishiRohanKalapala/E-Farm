@@ -90,9 +90,23 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <img width="1469" alt="Screenshot 2024-06-28 at 10 43 52 PM" src="https://github.com/RishiRohanKalapala/E-Farm/assets/156566826/facbd213-156a-4a5e-9c4f-53c7b40387d6">
 
 
+
+
+
 <img width="1470" alt="Screenshot 2024-06-28 at 10 44 19 PM" src="https://github.com/RishiRohanKalapala/E-Farm/assets/156566826/cb31121d-a5f1-48ce-900d-9e39fccaba4b">
 
+
+
+
+<img width="1470" alt="Screenshot 2024-06-28 at 10 44 55 PM" src="https://github.com/RishiRohanKalapala/E-Farm/assets/156566826/6e8a6098-f3ba-4542-a2f1-1eea87a9b6a7">
+
+
+
+
 <img width="1470" alt="Screenshot 2024-06-28 at 10 46 49 PM" src="https://github.com/RishiRohanKalapala/E-Farm/assets/156566826/67474190-0915-4620-b563-290de7f3a38c">
+
+
+
 
 <img width="1470" alt="Screenshot 2024-06-28 at 10 45 27 PM" src="https://github.com/RishiRohanKalapala/E-Farm/assets/156566826/6f32231f-07b8-4a9c-b81e-6a81c3afc4c4">
 
